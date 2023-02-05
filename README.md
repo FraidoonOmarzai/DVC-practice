@@ -25,3 +25,8 @@
 ```
 
 * We will use google drive to store our data
+
+* Setting 'myremote' as a default remote
+```bash
+    dvc remote add -d my-rem Copied_ID
+```
